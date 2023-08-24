@@ -1,0 +1,6 @@
+    .data span:nth-child(1){
+        color: rgb(142, 34, 129);
+    }
+    .stat>div :nth-child(3){
+        display: none;
+    }

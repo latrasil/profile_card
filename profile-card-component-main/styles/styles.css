@@ -20,8 +20,8 @@ body{
     width: 100vw;
     justify-content: center;
     align-items: center;
-    background:url(./images/bg-pattern-bottom.svg) ;
-    background: url(./images/bg-pattern-top.svg);
+    background:url(../images/bg-pattern-bottom.svg) ;
+    background: url(../images/bg-pattern-top.svg);
     background-color: rgb(25, 161, 173);
 
 }
